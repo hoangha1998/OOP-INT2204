@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3029b1bf-6957-4ba3-87e5-800ce5dcadb9" name="Default Changelist" comment="" />
+    <list default="true" id="3029b1bf-6957-4ba3-87e5-800ce5dcadb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +15,10 @@
   <component name="ProjectId" id="1fUipS6c27A3p4bbgFWllkTJHVp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -34,13 +36,15 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="739" y="262" key="FileChooserDialogImpl" timestamp="1596279513352">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="526" y="183" key="FileChooserDialogImpl" timestamp="1597463425528">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="526" y="183" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597463425528" />
     <state x="739" y="262" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596279513352" />
-    <state x="342" y="141" key="new project wizard" timestamp="1596279515042">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="131" y="0" key="new project wizard" timestamp="1597463427924">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1597463427924" />
     <state x="342" y="141" key="new project wizard/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596279515042" />
   </component>
 </project>
